@@ -1,0 +1,67 @@
+#navbar h1 {
+    float: none;
+    text-align: center;
+}
+
+#navbar h1 {
+    float: none;
+}
+
+#navbar ul {
+    float: none;
+}
+
+#navbar ul li {
+    float: none;
+}
+
+#navbar ul li a {
+    padding: 10px;
+    border-bottom: rgba(114, 113, 113, 0.267) dotted 1px;
+}
+
+
+/* home info */
+
+.info-img {
+    display: none;
+}
+
+#home-info .info-content {
+    float: none;
+    width: 100%;
+}
+
+#features .box {
+    float: none;
+    width: 100%;
+    padding: 50px;
+    text-align: center;
+}
+
+
+/* About Us */
+
+#about-info .info-left,
+#about-info .info-right {
+    float: none;
+    width: 100%;
+}
+
+.info-right {
+    margin-top: 30px;
+}
+
+#about-info .info-right img {
+    display: block;
+    width: 100%;
+    border-radius: 5%;
+}
+
+.large-heading {
+    text-align: center;
+}
+
+.container .box {
+    border-bottom: #444444 dotted 1px;
+}
